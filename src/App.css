@@ -1,0 +1,72 @@
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+ button{height: 50px;border-radius: 10px;font: normal normal normal 15px Montserrat;border: none;margin-block:2rem}
+.bookBackground {
+  background-color: black;
+}
+.brideBackground {
+  padding-top: 5.5rem;
+}
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.bride-cover {
+  max-width: 100vw;
+}
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.bride-mobile {
+  display: none;
+}
+.image2 {
+  position: absolute;
+  left: 0px;
+  border: 1px solid #fff;
+}
+.layerMobile {
+  display: none;
+}.img3 {
+  position: absolute;
+  left: 150px;
+  top: -60px;
+}
+.text-title {
+  font: normal normal normal 45px/54px Montserrat;
+  position: absolute;
+  left: 10%;
+  top: 110px;
+  color: #fff;
+}
+.text {
+  font: normal normal normal 18px/22px Montserrat;
+  top: 100px;
+  color: #fff;
+}
+.paternDiv {
+  height: 25vh !important;
+}
+.book-section{position: absolute;width: 100%; text-align: center; margin-top: 7rem;}
+.pattern {
+ width: 100% !important;
+  padding-top: 30rem;
+}
+.bri {
+  width: 100%;
+  background-color: black;
+}
+.mt{margin-top: -1rem;}
+.margin{margin-top: -10px;}
